@@ -1,16 +1,24 @@
-# wifi
+📝 Notes App
 
-A new Flutter project.
+A simple and efficient Notes application built using Flutter and Hive for local storage.
+This app allows users to create, edit, and delete notes with a smooth and responsive interface.
 
-## Getting Started
+🌐 Live Demo
 
-This project is a starting point for a Flutter application.
+👉 [Hosting Link](https://shree-notes.web.app)
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✍️ Create notes
+📝 Edit notes
+❌ Delete notes
+💾 Offline storage using Hive
+⚡ Fast and lightweight
+📱 Works on Mobile and Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+
+Flutter
+Dart
+Hive (Local Database)
+Firebase Hosting
